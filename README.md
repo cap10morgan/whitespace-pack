@@ -22,3 +22,5 @@ Add whitespace-pack to your emacs-live configuration by adding this line
 to your ~/.emacs-live.el file:
 
     (live-add-pack '("/path/to/whitespace-pack"))
+
+Then restart Emacs.
