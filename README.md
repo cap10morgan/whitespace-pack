@@ -16,7 +16,7 @@ whitespace-pack enables the following (in programming modes only):
 
 Clone the git repo to your live packs dir (often ~/.live-packs):
 
-    git clone git@github.com:cap10morgan/whitespace-pack.git
+    git clone git://github.com/cap10morgan/whitespace-pack.git
 
 Add whitespace-pack to your emacs-live configuration by adding this line
 to your ~/.emacs-live.el file:
